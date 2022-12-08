@@ -10,7 +10,7 @@ namespace Project1
         private SpriteBatch _spriteBatch;
         private int x;
         private SpriteFont font;
-        private Vector2 position = new Vector2(100,100);
+        private Vector2 position = new Vector2(100,105);
         public Game1()
         {
             _graphics = new GraphicsDeviceManager(this);
