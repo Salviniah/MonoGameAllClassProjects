@@ -5,6 +5,8 @@ VisualStudioVersion = 17.4.33110.190
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project1", "Project1\Project1.csproj", "{FB7072AF-2AEB-472A-A799-9D5148865B2E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeteorApplication", "MeteorApplication\MeteorApplication.csproj", "{3BB68948-52D7-45DD-98E0-5F6EF262E5C5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{FB7072AF-2AEB-472A-A799-9D5148865B2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FB7072AF-2AEB-472A-A799-9D5148865B2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FB7072AF-2AEB-472A-A799-9D5148865B2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BB68948-52D7-45DD-98E0-5F6EF262E5C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BB68948-52D7-45DD-98E0-5F6EF262E5C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BB68948-52D7-45DD-98E0-5F6EF262E5C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BB68948-52D7-45DD-98E0-5F6EF262E5C5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
